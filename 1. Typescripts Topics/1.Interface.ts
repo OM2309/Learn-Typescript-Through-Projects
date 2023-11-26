@@ -14,8 +14,8 @@
 //     scholar: true
 // }
 
-// const obj:Obj = {
-//     height:6,
-//     weight:60,
-//     gender:true
-// }
+const obj:Obj = {
+    height:6,
+    weight:60,
+    gender:true
+}
